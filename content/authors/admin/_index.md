@@ -23,7 +23,6 @@ bio:
 interests:
 - Data Analysis and Visualization
 - Information Systems
-- Intergovernmental Organizations
 
 education:
   courses:
