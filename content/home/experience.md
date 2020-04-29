@@ -51,4 +51,15 @@ date_format = "Jan 2006"
   Designing and implementing digital tools and systems for inventory control, procurement, scheduling, construction tracking, reporting, and all operations teams across the program. Creating secure, easy to use applications and systems for staff. High standard of documentation and data flow mapping. Creating and delivering group and one-on-one training sessions. Data analysis & reporting to support decision making internally and externally. Managing operations, systems, data and staff for the cash-voucher initiative of the project.
   """
 
+  [[experience]]
+  title = "Business Analyst"
+  company = "The Starting Out Charity"
+  company_url = ""
+  location = "London, UK"
+  date_start = "2013-01-01"
+  date_end = "2015-12-01"
+  description = """
+  Digitising logistics planning to support large-scale distribution events across the UK for a London NGO. Manager and administrator of all electronic media and data. Sourcing and implementing applications to manage press releases, newsletter, updates and CRM. Reporting to the Charity Commission and stakeholders. 
+  """
+
 +++
