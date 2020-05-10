@@ -66,5 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla . bla bla bla bla bla bla bla bla . bla bla bla bla bla bla bla bla .
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla .
+Results-oriented information management professional with a solid and proven track record of managing, developing and integrating information tools and processes. I've developed a variety of systems on the web, mobile, and desktop that capture, process, visualize and present information to provide value and solve problems. My systems have helped support record-breaking events in London, disaster response projects in the Pacific, and irregular migration analysis in Europe. Effective communicator that excels at analysing and gathering requirements, presenting outputs, and coordinating amongst teams and stakeholders. Passionate about data analysis and visualisation, extracting maximum knowledge and value from complex and diverse datasets. Rapidly absorbs new technologies into a wide technical skillset.
